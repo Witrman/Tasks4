@@ -14,7 +14,7 @@ public class funcD {
         bb = b == 1;
         cc = c ==1;
 
-        if(Electic(bb,aa,cc)) {
+        if(Elect(bb,aa,cc)) {
             System.out.println(1);
         }
         else {
@@ -22,7 +22,7 @@ public class funcD {
         }
     }
 
-    private  static boolean Electic(boolean b,boolean a , boolean c)
+    private  static boolean Elect(boolean b, boolean a , boolean c)
     {
         int s =  0;
         if (a) {s++;}
